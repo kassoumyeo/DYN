@@ -28,6 +28,8 @@ Password: password
 
 Navigate through the home page to set rules, display lists, and check packets.
 File Structure
+
+
 project/
 │
 ├── Firewall/
@@ -47,4 +49,4 @@ project/
 │ └── style.css
 │
 ├── app.py
-└── requirements.txt
+└── Documentation.txt
