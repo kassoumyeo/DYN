@@ -25,28 +25,3 @@ Open a web browser and go to http://127.0.0.1:5000.
 Log in using the default admin credentials:
 Username: admin
 Password: password
-
-Navigate through the home page to set rules, display lists, and check packets.
-File Structure
-
-
-project/
-│
-├── Firewall/
-│ ├── init.py
-│ ├── strategy_factory.py
-│ ├── ip_filter.py
-│ └── settings.py
-│
-├── templates/
-│ ├── index.html
-│ ├── home.html
-│ ├── set_rules.html
-│ ├── display_lists.html
-│ └── check_packet.html
-│
-├── static/
-│ └── style.css
-│
-├── app.py
-└── Documentation.txt
