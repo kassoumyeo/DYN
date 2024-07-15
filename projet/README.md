@@ -1,9 +1,11 @@
 Project Overview
+
 The Advanced Firewall project is a web application designed to filter incoming and outgoing network traffic based on predefined rules. 
 It leverages various design patterns for a maintainable and scalable codebase. 
 The project includes functionalities such as login authentication, managing whitelists and blacklists, moving rules between these lists, and checking packet validity.
 
 Objectives
+
 Implement Strategy, Factory, and Singleton design patterns.
 Develop strategies for filtering network traffic based on IP addresses, ports, and protocols.
 Create a user interface to add rules and filter traffic.
